@@ -14,14 +14,14 @@ recebe como output as informações consolidadas de:
 - IRRF;
 - Salário Líquido.
 
-![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/img/img_1.png)
+![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/blob/main/img/img_1.png)
 
-![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/img/img_2.png)
+![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/blob/main/img/img_2.png)
 
-![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/img/img_3.png)
+![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/blob/main/img/img_3.png)
 
-![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/img/img_4.png)
+![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/blob/main/img/img_4.png)
 
-![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/img/img_5.png)
+![alt text](https://github.com/lucianonevesln/java-calculo-retencoes/blob/main/img/img_5.png)
 
 ----------------------------------------------------------------------
