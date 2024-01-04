@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd5c6382-9b29-4ec0-8fc7-5bab8fc717d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianoneves/calcularetencoes/colaborador/Colaborador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianoneves/calcularetencoes/retencoes/Inss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/lucianoneves/calcularetencoes/retencoes/Irrf.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd5c6382-9b29-4ec0-8fc7-5bab8fc717d9" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +49,33 @@
       <option name="presentableId" value="Default" />
       <updated>1684419950004</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro commit">
+      <created>1684448395009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684448395009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro commit">
+      <created>1684448404295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684448404295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1684448536333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684448536333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
